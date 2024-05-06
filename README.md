@@ -1,5 +1,5 @@
 # backup-blogger
-Simple script to backup Google's Blogger using API
+Simple script to backup Google's Blogger using API, posts must be public.
 
 ## Usage
 Change the following variables in main.py
